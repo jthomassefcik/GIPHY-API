@@ -1,0 +1,8 @@
+body {
+    background-image: url("https://images.alphacoders.com/245/245953.png");
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 100%;
+}
